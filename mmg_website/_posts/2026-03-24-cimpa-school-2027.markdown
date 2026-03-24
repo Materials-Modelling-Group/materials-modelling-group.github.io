@@ -11,14 +11,14 @@ We are pleased to announce that the **Technical University of Kenya (TUK)**, in 
 
 This school is a key component of the **APhRICA** (Advanced Physics Training and Collaboration with Africa) initiative and follows the success of our previous **Physics Without Frontiers** workshops.
 
-### 📅 Event Details
+###  Event Details
 * **Dates:** 28 June – 11 July 2027
 * **Venue:** Department of Physics, Earth and Environmental Sciences, TUK, Nairobi.
 * **Host Group:** [Materials Modelling Group](https://materials-modelling-group.github.io/)
 
 ---
 
-## 🔬 Scientific Vision
+##  Scientific Vision
 While DFT is the most widely used computational method in quantum chemistry and materials science, many practitioners use it as a "black box." This school aims to bridge the gap in theoretical and methodological skills among East African physics students and faculty. 
 
 Our goal is to prepare participants to be **active contributors** to theoretical methodology and code development, rather than just consumers of existing tools.
@@ -31,7 +31,7 @@ Our goal is to prepare participants to be **active contributors** to theoretical
 
 ---
 
-## 👥 The Teaching Team
+##  The Teaching Team
 The school brings together a local and international faculty, many of whom are long-term collaborators of the Materials Modelling Group:
 
 | Name | Institution |
@@ -46,7 +46,7 @@ The school brings together a local and international faculty, many of whom are l
 
 ---
 
-## 🚀 How to Apply
+##  How to Apply
 **Important:** As a CIMPA-funded school, all applications must be handled via the official CIMPA portal. 
 
 > [Apply via the Official CIMPA Website](https://www.cimpa.info/)
